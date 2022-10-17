@@ -1,16 +1,21 @@
-# notekeeper_app_firebase_miner2
+# NoteKeeper App Firebase Firestore
 
-A new Flutter project.
 
-## Getting Started
+### Output 1 ---------------------- : Output 2                  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<p>
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/196219262-2512b64b-b2d4-4a70-bbb5-82f281491503.jpg" alt="Screenshot_20221012_221650" width=230 height=480/>
+  
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/196219277-7238160f-61a4-4215-b84b-3d3de6673ae8.jpg" alt="Screenshot_20221012_221704" width=230 height=480/>
+  </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+ Mechanism Video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   https://user-images.githubusercontent.com/96048173/196219187-d32475d9-8858-4048-b351-0d1c6b934b6d.mp4
+  </p>
+  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
