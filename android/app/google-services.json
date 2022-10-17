@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "88118866462",
+    "project_id": "note-keeper-fm2",
+    "storage_bucket": "note-keeper-fm2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88118866462:android:efaab8551fbf33260b340f",
+        "android_client_info": {
+          "package_name": "com.notekeeper.app.notekeeper_app_firebase_miner2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88118866462-35lcgmvmhv7bkr7v13rj33l5ju3t8sav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notekeeper.app.notekeeper_app_firebase_miner2",
+            "certificate_hash": "b101586b9c2dcf41e771ff076a2cd2e09da9ec4b"
+          }
+        },
+        {
+          "client_id": "88118866462-keba75l0k74oo4logt6409r1d2e56let.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAkt7g3lH92vujq8LwYn4hFBaRl6z_Sbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88118866462-keba75l0k74oo4logt6409r1d2e56let.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
